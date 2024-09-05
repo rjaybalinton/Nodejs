@@ -1,0 +1,41 @@
+.row.content{height:550px}
+.sidenav{
+    background-color:aliceblue;
+    height: 140%;
+}
+@media screen and (max-width:900px) {
+    .row.content{height:auto;}
+}
+
+div{
+    color:orange;
+    background-color: skyblue;
+
+}
+legend{
+    color: orange;
+}
+h2{
+    color :red;
+}
+.fa{
+    padding:20px;
+    font-size: 30px;
+    width:200px;
+    text-align:center;
+    text-decoration: none;
+    margin:5px 2px;
+}
+.fa-facebook{
+    background:#3B5998;
+    color:white;
+}
+.fa-twitter{
+    background:#55ACEE;
+    color:white;
+}   
+
+.fa-instagram{
+    background:#db681b;
+    color:white;
+}
